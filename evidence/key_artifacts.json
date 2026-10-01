@@ -1,0 +1,26 @@
+{
+  "note": "Identity references from the private research workspace; source notebooks and prediction CSVs are not redistributed here.",
+  "candidates": {
+    "P53": {
+      "kernel": "liaoyingxi/biohub-p53-joint-density-leaf-v1",
+      "version": 1,
+      "submission_ref": 56540814,
+      "notebook_sha256": "2011cba5115ade8d0e509e163a9fbb3fb207d7eba9c57e8f8ad1092265922aa1",
+      "submission_csv_sha256": "28ebe07f44d096ce7c0f63b596e8a6dbf3181397d618b455517cd3eb6f96ae6a"
+    },
+    "P58": {
+      "kernel": "liaoyingxi/biohub-p58-joint-v1",
+      "version": 1,
+      "submission_ref": 56553387,
+      "notebook_sha256": "26851e40fce5057c1249b7c1321653dde69f2632bd76e16b522798114f11012a",
+      "submission_csv_sha256": "7f4df163316e60b7bb2c62994688f8309b3e4089291b7fd28601763e24c83c7e"
+    },
+    "P60": {
+      "kernel": "liaoyingxi/biohub-p60-linefit-v1",
+      "version": 1,
+      "submission_ref": 56570663,
+      "notebook_sha256": "93cd69d744a655a0912e6e57383d68676124628de2a3d228158dd110a2e94bce",
+      "submission_csv_sha256": "8290b918d586b7d7075025e35022788e32f209951af747ab5d978226c573f341"
+    }
+  }
+}

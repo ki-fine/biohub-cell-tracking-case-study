@@ -1,0 +1,173 @@
+{
+  "retrieved_at_utc": "2026-10-01T04:22:44.919478+00:00",
+  "source": "Authenticated Kaggle submissions API and final competition leaderboard snapshots",
+  "competition_url": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
+  "team": {
+    "name": "Kifine",
+    "team_id": 16806007,
+    "kaggle_username": "liaoyingxi",
+    "public_rank": 1110,
+    "public_score": "0.949",
+    "private_leaderboard_position": 1364,
+    "private_score": "0.915"
+  },
+  "selected_final_submissions": {
+    "primary_ref": 56553387,
+    "secondary_ref": 56570663,
+    "selection_basis": "User-provided final-selection screenshot showed P58 and P60 checked; API confirms the team final score, but does not expose the checkbox selection itself."
+  },
+  "submissions": [
+    {
+      "ref": 56069668,
+      "date": "2026-09-07T05:34:19.770000",
+      "description": "P0 exact LB941 control public calibration source 72cab555",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.941",
+      "privateScore": "0.907"
+    },
+    {
+      "ref": 56184987,
+      "date": "2026-09-12T11:52:26.777000",
+      "description": "P7 DeepCenter XY4 logit TTA on P5; batch1 external calibration; v1 e4f6b827",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.946",
+      "privateScore": "0.914"
+    },
+    {
+      "ref": 56198176,
+      "date": "2026-09-13T03:35:09.310000",
+      "description": "P8 complete D4 on P7; external calibration; v1 e15db4f8",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.938",
+      "privateScore": "0.918"
+    },
+    {
+      "ref": 56482599,
+      "date": "2026-09-23T04:29:51.500000",
+      "description": "P40 full validator PPSWEEP tight55; one-time calibration; v1 a69c7822",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.947",
+      "privateScore": "0.914"
+    },
+    {
+      "ref": 56540814,
+      "date": "2026-09-25T05:18:10.270000",
+      "description": "P53 joint detector density gates leaf030; v1 28ebe07f",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.949",
+      "privateScore": "0.914"
+    },
+    {
+      "ref": 56552872,
+      "date": "2026-09-25T14:24:32.940000",
+      "description": "P56 joint active gates high leaf exempt; v1 84fc55fc",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.949",
+      "privateScore": "0.914"
+    },
+    {
+      "ref": 56552892,
+      "date": "2026-09-25T14:25:52.020000",
+      "description": "P57 joint sparse detector active gates leaf030; v1 f64de490",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.949",
+      "privateScore": "0.915"
+    },
+    {
+      "ref": 56553387,
+      "date": "2026-09-25T14:49:12.593000",
+      "description": "P58 joint sparse detector active gates high leaf exempt; v1 7f4df163",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.949",
+      "privateScore": "0.915"
+    },
+    {
+      "ref": 56570663,
+      "date": "2026-09-26T05:52:55.830000",
+      "description": "P60 joint P53 lineage smoothing barriers; v1 8290b918",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.949",
+      "privateScore": "0.914"
+    },
+    {
+      "ref": 56649171,
+      "date": "2026-09-28T18:17:47.903000",
+      "description": "P91 final fusion joint P64; v1 832f8e54",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.945",
+      "privateScore": "0.915"
+    },
+    {
+      "ref": 56649174,
+      "date": "2026-09-28T18:17:57.250000",
+      "description": "P92 final fusion joint P66; v1 ede63300",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.945",
+      "privateScore": "0.915"
+    },
+    {
+      "ref": 56649183,
+      "date": "2026-09-28T18:18:07.597000",
+      "description": "P93 final fusion within_budget_consensus P64; v1 f8d87043",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.944",
+      "privateScore": "0.916"
+    },
+    {
+      "ref": 56649185,
+      "date": "2026-09-28T18:18:17.790000",
+      "description": "P94 final fusion within_budget_consensus P66; v1 cd03898d",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "0.945",
+      "privateScore": "0.916"
+    },
+    {
+      "ref": 56649193,
+      "date": "2026-09-28T18:18:27.110000",
+      "description": "P95 final fusion cross_budget_consensus P64; v1 d2709d93",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "",
+      "privateScore": ""
+    },
+    {
+      "ref": 56663370,
+      "date": "2026-09-29T05:03:17.113000",
+      "description": "P96 fixed joint upgrade memo v3 1f439047",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "",
+      "privateScore": ""
+    },
+    {
+      "ref": 56663377,
+      "date": "2026-09-29T05:03:27.457000",
+      "description": "P97 fixed joint upgrade memo v3 e52a605a",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "",
+      "privateScore": ""
+    },
+    {
+      "ref": 56663383,
+      "date": "2026-09-29T05:03:36.737000",
+      "description": "P98 fixed joint upgrade memo v3 164faccb",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "",
+      "privateScore": ""
+    },
+    {
+      "ref": 56663387,
+      "date": "2026-09-29T05:03:45.033000",
+      "description": "P99 fixed joint upgrade memo v3 f8c10fb8",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "",
+      "privateScore": ""
+    },
+    {
+      "ref": 56663390,
+      "date": "2026-09-29T05:03:54.643000",
+      "description": "P100 fixed joint upgrade memo v3 9d1c3b80",
+      "status": "SubmissionStatus.COMPLETE",
+      "publicScore": "",
+      "privateScore": ""
+    }
+  ]
+}
